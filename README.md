@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chit Swe</h1>
 <h3 align="center">A junior software developer with experience of less than one year.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudochitswe&label=Profile%20views&color=0e75b6&style=flat" alt="sudochitswe" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudochitswe&label=Profile%20views&color=0e75b6&style=flat" alt="sudochitswe" /> </p> -->
 
 - 🌱 I’m currently learning **Flutter & Android**
 
